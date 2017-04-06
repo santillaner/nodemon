@@ -54,6 +54,7 @@
     "lodash.defaults": "^3.1.2",
     "minimatch": "^3.0.0",
     "ps-tree": "^1.0.1",
+    "raven": "^1.2.0",
     "touch": "1.0.0",
     "undefsafe": "0.0.3",
     "update-notifier": "0.5.0"
